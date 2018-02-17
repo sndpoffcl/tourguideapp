@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KSA Tour Guide App</string>
+    <string name="info">معلومات</string>
+    <string name="flag">العلم</string>
+    <string name="event">الفعاليات</string>
+    <string name="historical">تاريخي</string>
+    <string name="city">المدن</string>
+    <string name="ksa_desctpriton">المملكة العربية السعودية رسميا المملكة العربية السعودية (المملكة العربية السعودية)، هي دولة عربية ذات سيادة في غرب آسيا تشكل الجزء الأكبر من شبه الجزيرة العربية. وتبلغ مساحتها حوالي 2،150،000 كم 2 (830،000 ميل مربع)، وتعد المملكة العربية السعودية خامس أكبر دولة في آسيا وثاني أكبر دولة في العالم العربي بعد الجزائر. ويحدها المملكة العربية السعودية الأردن والعراق من الشمال والكويت إلى الشمال الشرقي وقطر والبحرين والإمارات العربية المتحدة من الشرق وعمان إلى الجنوب الشرقي واليمن إلى الجنوب. وهي تفصل بين فلسطين ومصر عن طريق خليج العقبة. وهي الدولة الوحيدة التي تضم كل من ساحل البحر الأحمر وساحل الخليج العربي، ومعظم أراضيها تتكون من صحراء جافة وجبال.</string>
+    <string name="diriyah">الدرعية التاريخية</string>
+    <string name="jubbatHail">جبة حائل</string>
+    <string name="nationalday">اليوم الوطني</string>
+    <string name="janadriya1439">الجنادرية لعام 1439 هـ</string>
+    <string name="makkah">مكة المكرمة</string>
+    <string name="madinah">المدينة المنورة</string>
+    <string name="riyadh">الرياض</string>
+    <string name="dammam">الدمام</string>
+    <string name="jeddah">جدة</string>
+    <string name="abha">أبها</string>
+    <string name="tabuk">تبوك</string>
+    <string name="zabalcastlel">قلعة زعبل</string>
+</resources>
