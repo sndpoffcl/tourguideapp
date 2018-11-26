@@ -1,7 +1,7 @@
 package com.example.anrdoid.tourguideapp;
 
 /**
- * Created by Labtop on 15/02/18.
+ * Created by SandeepSinha on 15/11/18.
  */
 
 public class Content {
